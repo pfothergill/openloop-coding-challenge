@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Openloop Coding Challenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and is apart of the Openloop Coding Challenge (http://openloop-coding-challenge.s3-website.us-east-2.amazonaws.com)
 
 ## Available Scripts
 
