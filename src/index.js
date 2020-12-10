@@ -47,7 +47,7 @@ class NameForm extends React.Component {
   render() {
     return (
       <>
-        <label>Add Users</label>
+        <h1 style={{textAlign: "center"}}>Add Users</h1>
         <div class="column">
           <form onSubmit={this.handleSubmit}>
             <label>
@@ -66,8 +66,11 @@ class NameForm extends React.Component {
               Note
               <input type="text" value={this.state.value} onChange={this.handleNoteChange} />
             </label>
-            <input type="submit" value="Submit" />
+            <input type="submit" value="+ Add User" />
           </form>
+        </div>
+        <div class="column">
+          <label></label>
         </div>
 
         
